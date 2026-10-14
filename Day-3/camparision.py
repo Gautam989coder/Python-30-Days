@@ -1,0 +1,32 @@
+# Comparison Operators
+# Comparison operators are used to compare two values:
+
+
+# Comparison operators return True or False based on the comparison:
+
+
+x = 5
+y = 3
+
+print(x == y)
+print(x != y)
+print(x > y)
+print(x < y)
+print(x >= y)
+print(x <= y)
+
+
+age = 18 # means value assign karna.
+
+
+# Python allows you to chain comparison operators:
+x = 5
+print(1 < x < 10)
+print(1 < x and x < 10)
+
+
+
+
+# Logical Operators
+# Logical operators are used to combine conditional statements:
+
