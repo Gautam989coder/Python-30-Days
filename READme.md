@@ -38,14 +38,12 @@ During this 30-day journey, I will practice:
 | Day | Topics | Status |
 |-----|--------|--------|
 | Day 01 | Variables, Strings, Lists, Basic Problems | Completed |
-| Day 02 | Coming Soon | ⚪ |
+| Day 02 | Dictionary, Tuple , Programmimg Problem  | Completed |
 | Day 03 | Coming Soon | ⚪ |
 | ... | ... | ⚪ |
 | Day 30 | Final Project & Revision | ⚪ |
 
 ## Repository Structure
-
-```text
 python-30-days/
 │
 ├── Day-01/
@@ -60,6 +58,13 @@ python-30-days/
 │   └── student_profile.py
 │
 ├── Day-02/
+|   |── dict.py
+|   |── tuple.py
+|   |── problem_01.py
+│   ├── problem_02.py
+│   ├── problem_03.py
+│   ├── problem_04.py
+│   ├── problem_05.py
 ├── Day-03/
 ├── ...
 └── Day-30/
