@@ -39,7 +39,9 @@ During this 30-day journey, I will practice:
 |-----|--------|--------|
 | Day 01 | Variables, Strings, Lists, Basic Problems | Completed |
 | Day 02 | Dictionary, Tuple , Programmimg Problem  | Completed |
-| Day 03 | Coming Soon | ⚪ |
+| Day 03 | Comparison Operators, Conditions and If statements | Completed |
+| Day 04 | For loop, While loop | Completed |
+| Day 05 | 
 | ... | ... | ⚪ |
 | Day 30 | Final Project & Revision | ⚪ |
 
@@ -64,7 +66,26 @@ python-30-days/
 │   ├── problem_02.py
 │   ├── problem_03.py
 │   ├── problem_04.py
-│   ├── problem_05.py
+│   └── problem_05.py
+|
 ├── Day-03/
-├── ...
+|   |── camparision.py
+|   |── condition.py
+|   |── problem_01.py
+│   ├── problem_02.py
+│   ├── problem_03.py
+│   ├── problem_04.py
+│   └──problem_05.py
+|   
+|
+├── Day-04/
+|   |── for_loop.py
+|   |── While_loop.py
+|   |── problem_01.py
+│   ├── problem_02.py
+│   ├── problem_03.py
+│   ├── problem_04.py
+│   |── problem_05.py
+|   └──mini_project.py
+|
 └── Day-30/
